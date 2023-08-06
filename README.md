@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Transcrição de vídeos do YouTube que utiliza IA para transcrever automaticamente.
 
-- [Acesse o projeto finalizado, online](https://github.com/PauloSilva-Code/transcricao-video-ia)
+- [Acesse o projeto finalizado, online](https://paulosilva-code.github.io/transcricao-video-ia/)
 
 
 ## 🔖 Layout
